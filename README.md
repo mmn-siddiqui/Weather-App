@@ -1,4 +1,4 @@
 # Weather-App  
 
 
-Link: https://mmn-siddiqui.github.io/Weather-App/
+https://mmn-siddiqui.github.io/Weather-App/
